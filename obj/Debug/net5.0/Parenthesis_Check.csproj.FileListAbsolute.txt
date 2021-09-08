@@ -1,0 +1,16 @@
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Debug\net5.0\Parenthesis_Check.exe
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Debug\net5.0\Parenthesis_Check.deps.json
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Debug\net5.0\Parenthesis_Check.runtimeconfig.json
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Debug\net5.0\Parenthesis_Check.runtimeconfig.dev.json
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Debug\net5.0\Parenthesis_Check.dll
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Debug\net5.0\ref\Parenthesis_Check.dll
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Debug\net5.0\Parenthesis_Check.pdb
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.csproj.AssemblyReference.cache
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.AssemblyInfoInputs.cache
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.AssemblyInfo.cs
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.dll
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\ref\Parenthesis_Check.dll
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.pdb
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\obj\Debug\net5.0\Parenthesis_Check.genruntimeconfig.cache
