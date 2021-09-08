@@ -13,10 +13,13 @@ namespace Parenthesis_Check
             //Metto in input una stringa
             Console.WriteLine("Inserire un espressione da controllare");
             string equation = Console.ReadLine();
+           
             //Eseguo le due funzioni
             controlloParentesi(equation);
             controlloEquazione(equation);
 
+            Console.WriteLine("Premere invio per chiudere l'applicazione");
+             Console.ReadLine();
         }
 
         // Funzione per capire se la stringa in input possiede parentesi bilanciate,
