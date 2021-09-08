@@ -11,6 +11,7 @@ namespace Parenthesis_Check
         static void Main(string[] args)
         {   
             //Metto in input una stringa
+            Console.WriteLine("Inserire un espressione da controllare");
             string equation = Console.ReadLine();
             //Eseguo le due funzioni
             controlloParentesi(equation);

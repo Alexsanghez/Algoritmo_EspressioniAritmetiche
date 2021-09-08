@@ -1,0 +1,5 @@
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Release\net5.0\publish\Parenthesis_Check.exe
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Release\net5.0\publish\Parenthesis_Check.dll
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Release\net5.0\publish\Parenthesis_Check.deps.json
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Release\net5.0\publish\Parenthesis_Check.runtimeconfig.json
+C:\Users\alexs\Desktop\Codice\Progetti_C#\Parenthesis_Check\bin\Release\net5.0\publish\Parenthesis_Check.pdb
